@@ -1,7 +1,7 @@
 # Pandas practicing projects
 Update date: Arp. 20, 2020
 
-This repository archives practicing projects of data wrangling with Pandas and NumPy. Files are stored in Jupyter Notebook format. 
+This repository archives practicing projects of data wrangling with Pandas and NumPy. Files are stored in Markdown or Jupyter Notebook format. 
 
 ## Contents
 | Chapter | Content |
