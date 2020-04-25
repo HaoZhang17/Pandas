@@ -1,7 +1,7 @@
 # Pandas practicing projects
-Update date: Apr. 23, 2020
+Update date: Apr. 25, 2020
 
-This repository archives practicing projects of data wrangling with Pandas and NumPy. Files are stored in Markdown or Jupyter Notebook format. 
+This repository archives key and difficult points summarized from the guide of data wrangling with Pandas and NumPy provided by [Datawhale](https://github.com/datawhalechina/joyful-pandas). Files are stored in Markdown or Jupyter Notebook format. 
 
 ## Contents
 | Chapter | Content |
