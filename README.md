@@ -8,3 +8,4 @@ This repository archives key and difficult points summarized from the guide of d
 | --- | --- |
 | Chapter 1 | [Summary of Pandas basics](%E7%AC%AC%E4%B8%80%E7%AB%A0%E9%87%8D%E7%82%B9%E6%80%BB%E7%BB%93.md) |
 | Chapter 2 | [Indexing](%E7%AC%AC%E4%BA%8C%E7%AB%A0%E9%87%8D%E7%82%B9%E6%80%BB%E7%BB%93.md) |
+| Chapter 3 | [Aggregation and grouping](%E7%AC%AC%E4%B8%89%E7%AB%A0%E9%87%8D%E7%82%B9%E6%80%BB%E7%BB%93.md) |
