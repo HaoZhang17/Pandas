@@ -1,5 +1,6 @@
 # Pandas practicing projects
 Update date: Jun 27, 2020
+
 Main Language: Chinese
 
 This repository archives key and difficult points summarized from the guide of data wrangling with Pandas and NumPy provided by [Datawhale](https://github.com/datawhalechina/joyful-pandas). Files are stored in Markdown or Jupyter Notebook format. 
