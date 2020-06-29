@@ -1,5 +1,5 @@
 # Pandas practicing projects
-Update date: Jun 27, 2020
+Update date: Jun 29, 2020
 
 Main Language: Chinese
 
@@ -17,3 +17,4 @@ This repository archives key and difficult points summarized from the guide of d
 | Chapter 6 | [Missing data](%E7%AC%AC%E5%85%AD%E7%AB%A0%E9%87%8D%E7%82%B9%E6%80%BB%E7%BB%93.md) |
 | Chapter 7 | [Textual data](%E7%AC%AC%E4%B8%83%E7%AB%A0%E9%87%8D%E7%82%B9%E6%80%BB%E7%BB%93.md) |
 | Chapter 8 | [Category data](%E7%AC%AC%E5%85%AB%E7%AB%A0%E9%87%8D%E7%82%B9%E6%80%BB%E7%BB%93.md) |
+| Chapter 9 | [Sequential data](%E7%AC%AC%E4%B9%9D%E7%AB%A0%E9%87%8D%E7%82%B9%E6%80%BB%E7%BB%93.md) |
